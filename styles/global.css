@@ -145,6 +145,16 @@ body {
 	100% { transform: rotate(360deg); }
 }
 
+.wallet-title{
+	font-size: calc(5px + 1.3vw);
+	margin-bottom: 2em;
+	text-align: center;
+}
+.wallet-chart-section{
+	display: block;
+	width: 100%;
+}
+
 /* Responsive Adjustments */
 
 @media (max-width: 768px) {
